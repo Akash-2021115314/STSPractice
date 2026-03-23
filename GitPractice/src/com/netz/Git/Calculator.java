@@ -18,7 +18,7 @@ public class Calculator {
         int sub = a - b;
         int mul = a * b;
         int div = a / b;
-        int put = a $ b;
+        int add = b + c;
         System.out.println("Addition: " + add);
         System.out.println("Subtraction: " + sub);
         System.out.println("Multiplication: " + mul);
