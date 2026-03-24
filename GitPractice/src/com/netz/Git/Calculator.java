@@ -18,7 +18,7 @@ public class Calculator {
         int sub = a - b;
         int mul = a * b;
         int div = a / b;
-        
+        int add = b + c;
         System.out.println("Addition: " + add);
         System.out.println("Subtraction: " + sub);
         System.out.println("Multiplication: " + mul);
@@ -30,6 +30,10 @@ public class Calculator {
 
     }
     public void method2() {
+	    System.out.println("Multiplication: ");
+	    System.out.println("Division: ");
+		}
+    public void method3() {
 	    System.out.println("Multiplication: ");
 	    System.out.println("Division: ");
 		}
