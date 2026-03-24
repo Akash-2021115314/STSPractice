@@ -25,6 +25,12 @@ public class Calculator {
         System.out.println("Division: " + div);
         
         System.out.println("NEW: " + div);
+        
+        
 
     }
+    public void method2() {
+	    System.out.println("Multiplication: ");
+	    System.out.println("Division: ");
+		}
 }
